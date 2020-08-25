@@ -1,2 +1,2 @@
 # portfolio
-Project portfolio, where'll dump the code of the projects I make or contirbute to (with permission)
+Project portfolio, where I'll dump the code of the projects I make or contirbute to (with permission)
